@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaSQL_RodriguezJairoG</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidoPaterno">Apellido Paterno</string>
+    <string name="apellidoMaterno">Apellido Materno</string>
+    <string name="carrera">Carrera</string>
+    <string name="btnSave">Guardar</string>
+</resources>
